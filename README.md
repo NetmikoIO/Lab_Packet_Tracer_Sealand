@@ -1,7 +1,7 @@
 # 🧪 lab Packet Tracer "Sealand"
 
 Simulación de red basada en el país ficticio **Sealand**, desarrollada con **Cisco Packet Tracer**. Este laboratorio pone en práctica conocimientos fundamentales de redes, enrutamiento y servicios básicos, tal como se enseñan en entornos de formación profesional o certificaciones como Cisco CCNA *Creditos a Cisco y a los profesores del instituto Galileo"
-
+![Topología de red](topologia.png)
 ## 🗂️ Contenido del proyecto
 
 - Archivo `.pkt` compatible con Cisco Packet Tracer (recomendado: versión 8.x)
