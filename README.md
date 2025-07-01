@@ -17,7 +17,7 @@ Simulación de red basada en el país ficticio **Sealand**, desarrollada con **C
 
 - [Topología de red (topologia.png)](./topologia.png)
 - [Archivo Packet Tracer (sealand.pkt)](./sealand.pkt)
-
+- [Ejercicio completo (ejercicio.md)](./ejercicio.md)
 ---
 
 
