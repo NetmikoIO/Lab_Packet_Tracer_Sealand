@@ -13,6 +13,17 @@ Simulación de red basada en el país ficticio **Sealand**, desarrollada con **C
   - Servidores DNS y HTTP
   - PCs y pruebas de conectividad
 
+### Archivos disponibles
+
+- [Topología de red (topologia.png)](./topologia.png)
+- [Documento PDF (U6A8_josealvarez.pdf)](./U6A8_josealvarez.pdf)
+- [Archivo Packet Tracer (sealand.pkt)](./sealand.pkt)
+
+---
+
+**Créditos:**  
+Proyecto desarrollado con apoyo del Instituto Galileo y Pablo Esteban – pablo.profe.tic@gmail.com
+
 ## 🎯 Objetivos del laboratorio
 
 - Diseñar una red organizada basada en un país ficticio (Sealand).
