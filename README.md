@@ -6,7 +6,7 @@ Simulación de red basada en el país ficticio **Sealand**, desarrollada con **C
 
 - Archivo `.pkt` compatible con Cisco Packet Tracer (recomendado: versión 8.x)
 - Configuración de dispositivos de red:
-  - Routers con interfaces DTE/DCE
+  - Routers con interfaces actuando como DTE/DCE
   - Switches con VLANs y PortFast
   - Subinterfaces en routers (Router-on-a-Stick)
   - SSH para acceso remoto seguro
@@ -53,10 +53,9 @@ Simulación de red basada en el país ficticio **Sealand**, desarrollada con **C
 4. Ejecuta pruebas de conectividad y funcionalidad.
 5. Usa los comandos incluidos para practicar.
 
-
+Estare usando este repositorio actualizandolo para implementar todo lo que vaya aprendiendo en el curso que actualmente estoy haciendo de CISCO CCNA 2 - Update 01/07/25
 📜 Créditos
 Este laboratorio ha sido elaborado como parte de la formación en redes impartida por el:
-
 Instituto Galileo
 🧑‍🏫 Pablo Esteban
 📧 pablo.profe.tic@gmail.com
