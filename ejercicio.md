@@ -77,19 +77,17 @@ s0(config-if-range)#exit
 
 Queremos permitir que las 2 VLANs sean transportadas entre dispositivos
 
-|  Selecciona el puerto GigabitEthernet0/1. | `s0(config)#int GigabitEthernet0/1`
- |
-| --- | --- |
-| Lo configura en modo TRUNK | `s0(config-if)#switchport mode trunk`
- |
-| Permite solo las VLAN 104 y 204 sobre este enlace TRUNK | `s0(config-if)#switchport trunk allowed vlan 104,204`
- |
-| Activa la interfaz | `s0(config-if)#no shutdown`
- |
-| Terminamos la configuración | `s0(config-if)#exit`
- |
+| Acción                                                                 | Comando                                               |
+|------------------------------------------------------------------------|--------------------------------------------------------|
+| Selecciona el puerto GigabitEthernet0/1                                | `s0(config)#interface GigabitEthernet0/1`             |
+| Lo configura en modo TRUNK                                             | `s0(config-if)#switchport mode trunk`                 |
+| Permite solo las VLAN 104 y 204 sobre este enlace TRUNK               | `s0(config-if)#switchport trunk allowed vlan 104,204` |
+| Establece la VLAN nativa como 99 (opcional pero recomendado)          | `s0(config-if)#switchport trunk native vlan 99`       |
+| Activa la interfaz                                                     | `s0(config-if)#no shutdown`                           |
+| Terminamos la configuración                                            | `s0(config-if)#exit`                                  |
 
-![image.png](image.png)
+
+
 
 ---
 
