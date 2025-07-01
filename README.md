@@ -20,8 +20,6 @@ Simulación de red basada en el país ficticio **Sealand**, desarrollada con **C
 
 ---
 
-**Créditos:**  
-Proyecto desarrollado con apoyo del Instituto Galileo y Pablo Esteban – pablo.profe.tic@gmail.com
 
 ## 🎯 Objetivos del laboratorio
 
