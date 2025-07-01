@@ -4,9 +4,6 @@ PROYECTO DE FINAL DE REDES DE 1ª SMR
 
 PDF EXPLICATIVO Y ARCHIVO DE PACKET TRACER
 
-[Ejercicio6_josealvarez.pdf](Ejercicio6_josealvarez.pdf)
-
-[sealand.pkt](sealand.pkt)
 
 ROUTERS: 2911 CON MÓDULO DE SERIAL
 
