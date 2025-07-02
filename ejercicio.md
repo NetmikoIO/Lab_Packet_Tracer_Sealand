@@ -117,7 +117,7 @@ interface GigabitEthernet0/1.204
 exit
 ```
 
-1. Configurar la interface SERIAL que conecta a R_VITEL_1 (DTE)
+1. Configurar la interface SERIAL que conecta a R_VITEL_1 (DCE)
 
 ```bash
 interface Serial0/0/0
