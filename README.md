@@ -55,7 +55,5 @@ Simulación de red basada en el país ficticio **Sealand**, desarrollada con **C
 
 Estare usando este repositorio actualizandolo para implementar todo lo que vaya aprendiendo en el curso que actualmente estoy haciendo de CISCO CCNA 2 - Update 01/07/25
 📜 Créditos
-Este laboratorio ha sido elaborado como parte de la formación en redes impartida por el:
-Instituto Galileo
 🧑‍🏫 Pablo Esteban
 📧 pablo.profe.tic@gmail.com
